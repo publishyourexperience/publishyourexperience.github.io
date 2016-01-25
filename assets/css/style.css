@@ -409,7 +409,7 @@ body {
 .menu > div h2 {
     color: #fff;
     font-family: 'Raleway', sans-serif;
-    font-size: 35px;
+    font-size: 30px;
     font-weight: 100;
     text-align: center;
     margin: 0;
@@ -1264,7 +1264,7 @@ input#cfsubmit:hover {
     }
 
     .intro-content span {
-        font-size: 75px;
+        font-size: 68px;
     }
 
     .intro-content span.number {
